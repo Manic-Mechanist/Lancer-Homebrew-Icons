@@ -2,7 +2,7 @@
 	x="0px" y="0px" width="100%" viewBox="0 0 1080 1080" enable-background="new 0 0 1080 1080" style="paint-order:stroke fill">
 	<!-- Image was created on a canvas of 800x800 pixels. It is using a 1080x1080 canvas so that the image does not appear larger than other more standard images in the web app this is intended for. -->
 
-<g transform="scale(1) translate(140, 140)">
+<g transform="scale(1.1) translate(100, 100)">
 	<!-- Scale is left at 1 (which is 800x800 pixels) and translated 140 pixels horizontally and vertically, which leaves it centered on the 1080x1080 canvas. 
 	Note to self: if this proves to be too small, set scale to 1.1 and translate to (100, 100) to scale up by 10% while remaining centered. -->
 
